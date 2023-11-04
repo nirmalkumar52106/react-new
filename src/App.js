@@ -12,6 +12,8 @@ export default function App(){
         <Cards  para="Head1fff" img={myimage2}/>
         <Cards  para="Head1ewwwe" img={myimage}/>
         <Cards  para="Head1jjjjj" img={myimage2}/>
+        <Cards  para="Head1jjjjj" img={myimage2}/>
+        <Cards  para="Head1jjjjj" img={myimage2}/>
        </div>
        
 
